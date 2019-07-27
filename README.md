@@ -1,9 +1,16 @@
 # Pre-work
-======
+
 ### Concepts
+⋅⋅* Programming languages
+⋅⋅* OS setup, VM
 
 ### Pre-installation
-
+⋅⋅* WSL (bash)
+⋅⋅* GNU tools
+⋅⋅* Python
+⋅⋅* Java (jdk8)
+⋅⋅* Eclipse
+⋅⋅* github
 
 
 #course overview
