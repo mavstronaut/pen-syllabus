@@ -4,6 +4,13 @@
 - Programming languages
 - OS setup, VM
 
+### Books
+Available
+
+Additional
+- Unix Programming Environment Richard Stevens
+- Linux Kernel - Kernel Newbies Mailing List
+
 ### Pre-installation
 - WSL (bash)
 - GNU tools
