@@ -5,9 +5,16 @@
 - OS setup, VM
 
 ### Books
-Available
+1. Available
 
-Additional
+2. Oreilly
+- Secure Programming with Static Analysis - Brian Chess and Jacob West
+ - Computer Networks, 5th Edition - Larry L. Peterson and Bruce S. Davie
+ - Practical UNIX and Internet Security, 3rd Edition - Simson Garfunkel, Gene Spafford and Alan Schwartz
+ - Mastering UNIX Shell Scripting: Bash, Bourne, and Korn Shell Scripting for Programmers, System Administrators and UNIX Gurus, 2nd Edition
+ - Unix in a Nutshell, 4th Edition - Arnold Robbins
+ - CISSP in 21 days - Second Edition M. L. Srinivasan
+3. Additional
 - Unix Programming Environment Richard Stevens
 - Linux Kernel - Kernel Newbies Mailing List
 
