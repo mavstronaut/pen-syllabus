@@ -14,7 +14,8 @@
  - Mastering UNIX Shell Scripting: Bash, Bourne, and Korn Shell Scripting for Programmers, System Administrators and UNIX Gurus, 2nd Edition
  - Unix in a Nutshell, 4th Edition - Arnold Robbins
  - CISSP in 21 days - Second Edition M. L. Srinivasan
-3. Additional
+3. Additional 
+C learning
 - Unix Programming Environment Richard Stevens
 - Linux Kernel - Kernel Newbies Mailing List
 
