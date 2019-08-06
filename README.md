@@ -3,12 +3,14 @@
 ### Concepts
 - Programming languages
 - OS setup, VM
+- Open Source Intelligence Techniques OSINT
 
 ### Books
+
 1. Available
 - Real-world Bug Hunting: A Field Guide to Web Hacking - Peter Yaworski
 - The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities - Mark Down, John McDonald, Justin Schuh
-- 
+
 Bonus: 
 - The TCP/IP Guide: A comprehensive, Illustrated Internet Protocols Reference - Charles M. Kozierok
 
