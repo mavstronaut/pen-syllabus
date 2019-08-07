@@ -10,6 +10,8 @@
 1. Available
 - Real-world Bug Hunting: A Field Guide to Web Hacking - Peter Yaworski
 - The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities - Mark Down, John McDonald, Justin Schuh
+- Java Coding Guidelines : Fred Long, Dhruv Mohindra, Robert C. Seacord, Dean F. Sutherland, David Svoboda
+- Secure Codign in C and C++ : Robert C. Seacord
 
 Bonus: 
 - The TCP/IP Guide: A comprehensive, Illustrated Internet Protocols Reference - Charles M. Kozierok
@@ -25,6 +27,9 @@ Bonus:
 C learning
 - Unix Programming Environment Richard Stevens
 - Linux Kernel - Kernel Newbies Mailing List
+
+4. Completed
+- Secure programming with Static Analysis : Brian Chess and Jacob West
 
 ### Pre-installation
 - WSL (bash)
