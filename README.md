@@ -37,11 +37,24 @@ C learning
 - Secure programming with Static Analysis : Brian Chess and Jacob West
 
 ### info-sec tools
-- WSL (bash)
+1. Debuggers and analyzers
 - GNU tools
-* Python
+- rats
+- perl critic
+- filereader
+- expat
+
+2. Network monitoring
 - zap
 - scapy
+- fing
+
+3. Client tools
+- 
+4. Exploits
+- metasploit
+- dllmemory injector
+- will add more links later
 
 
 #course overview
