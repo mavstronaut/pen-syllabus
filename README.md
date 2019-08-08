@@ -9,9 +9,11 @@
 
 1. Available
 - Real-world Bug Hunting: A Field Guide to Web Hacking - Peter Yaworski
+- The Complete Privacy & Security Desk Reference Volume 1: Digital - Michael Bazzell, Justin Carroll
+- The Complete Privacy & Security Desk Reference Volume 2: Physical - Michael Bazzell, Justin Carroll
 - The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities - Mark Down, John McDonald, Justin Schuh
 - Java Coding Guidelines : Fred Long, Dhruv Mohindra, Robert C. Seacord, Dean F. Sutherland, David Svoboda
-- Secure Codign in C and C++ : Robert C. Seacord
+- Secure Coding in C and C++ : Robert C. Seacord
 
 Bonus: 
 - The TCP/IP Guide: A comprehensive, Illustrated Internet Protocols Reference - Charles M. Kozierok
