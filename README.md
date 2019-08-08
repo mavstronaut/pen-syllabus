@@ -36,13 +36,12 @@ C learning
 4. Completed
 - Secure programming with Static Analysis : Brian Chess and Jacob West
 
-### Pre-installation
+### info-sec tools
 - WSL (bash)
 - GNU tools
 * Python
-- Java (jdk8)
-- Eclipse
-- github
+- zap
+- scapy
 
 
 #course overview
