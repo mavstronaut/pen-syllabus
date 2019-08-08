@@ -56,6 +56,11 @@ C learning
 - dllmemory injector
 - will add more links later
 
+### video links
+1. Free
+- LiveOverflow
+2. Paid
+- pentesteracademy / attackdefense
 
 #course overview
 ------
