@@ -1,3 +1,9 @@
+# Contacts
+- Hila Dagan: hila.dagan@blackrock.com
+- Michael Jamet: michael.jamet@blackrock.com
+- Reed Kelly: reed.kelly@blackrock.com; reed@keldesign.com
+
+
 # Pre-work
 
 ### Concepts
