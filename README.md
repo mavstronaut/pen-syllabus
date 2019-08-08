@@ -3,6 +3,8 @@
 - Michael Jamet: michael.jamet@blackrock.com
 - Reed Kelly: reed.kelly@blackrock.com; reed@keldesign.com
 - Praveen Nallasamy:  praveen.nallasamy@blackrock.com 
+- Yakov Kravets: yakov.kravets@blackrock.com 
+- Ejovi Nuewere: ejovi.nuwere@blackrock.com 
 
 # Pre-work
 
