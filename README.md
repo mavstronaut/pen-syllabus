@@ -9,6 +9,8 @@
 
 1. Available
 - Real-world Bug Hunting: A Field Guide to Web Hacking - Peter Yaworski
+- Open Source Intelligence Techniques - Michael Bazzell
+- Hiding From The Internet: Eliminating Personal Online Information - Michael Bazzell
 - The Complete Privacy & Security Desk Reference Volume 1: Digital - Michael Bazzell, Justin Carroll
 - The Complete Privacy & Security Desk Reference Volume 2: Physical - Michael Bazzell, Justin Carroll
 - The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities - Mark Down, John McDonald, Justin Schuh
