@@ -1,5 +1,6 @@
 
-# Pre-work
+# pen squad
+Add links and resources, this is an open growing list.
 
 ### Concepts
 - Programming languages
@@ -55,12 +56,18 @@ C learning
 - metasploit
 - dllmemory injector
 - will add more links later
+5. OSINT
+- osintframework 
 
 ### video links
 1. Free
 - LiveOverflow
 2. Paid
 - pentesteracademy / attackdefense
+
+# CTF competitions
+- hack the box
+- Google ctf
 
 #course overview
 ------
