@@ -1,4 +1,3 @@
-
 # pen squad
 Add links and resources, this is an open growing list.
 
@@ -34,7 +33,7 @@ C learning
 - Unix Programming Environment Richard Stevens
 - Linux Kernel - Kernel Newbies Mailing List
 
-4. Completed
+4. Annotated
 - Secure programming with Static Analysis : Brian Chess and Jacob West
 
 ### info-sec tools
@@ -50,20 +49,24 @@ C learning
 - scapy
 - fing
 
-3. Client tools
-- 
-4. Exploits
+3. Exploits
 - metasploit
 - dllmemory injector
 - will add more links later
-5. OSINT
+
+4. OSINT
 - osintframework 
+
+5. Client tools
+- 
 
 ### video links
 1. Free
 - LiveOverflow
+
 2. Paid
-- pentesteracademy / attackdefense
+- pentesteracademy (videos) / attackdefense (labs)
+
 
 # CTF competitions
 - hack the box
@@ -73,7 +76,7 @@ C learning
 ------
 
 ### Static Analysis 
-* cwe
+* cwe / mitre
 * owasp
 
 ### OS
