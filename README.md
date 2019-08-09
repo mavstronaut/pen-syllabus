@@ -69,7 +69,11 @@ C learning
 
 
 # CTF competitions
+1. Ongoing (training)
 - hack the box
+- attackdefense (part of pentesteracademy)
+
+2. Events
 - Google ctf
 
 #course overview
