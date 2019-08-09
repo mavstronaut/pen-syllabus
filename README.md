@@ -72,6 +72,7 @@ C learning
 1. Ongoing (training)
 - hack the box
 - attackdefense (part of pentesteracademy)
+- OWASP Juice Shop (easy starter ctf challenge)
 
 2. Events
 - Google ctf
